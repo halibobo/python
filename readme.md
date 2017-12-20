@@ -1,1 +1,1 @@
-# Python Study
+# Python
