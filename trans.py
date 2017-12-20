@@ -1,0 +1,13 @@
+print(ord('s'))
+print(ord('号'))
+print(chr(125))
+print(chr(35451))
+print('ABC'.encode('ascii'))
+print('中文'.encode('utf-8'))
+print(b'\xe4\xb8\xad\xff'.decode('utf-8', errors='ignore'))
+print(len('阿达aa'))
+print( len('中文朤'.encode('utf-8')))
+print( len('中文朤'))
+print('%2d-%02d' % (3, 1))
+
+print('Hello, {0}, 成绩提升了 {1:.1f}%'.format('小明', 17.125))
