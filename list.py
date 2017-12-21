@@ -21,7 +21,7 @@ hybirdArray = ['str',12,1.5,array]
 print('混合类型：',hybirdArray)
 
 
-#不可修改的类型 tuple
+#不可修改的 tuple
 tupleData = ('第一天','第二天','第三条')
 print("tuple data : ",tupleData)
 
